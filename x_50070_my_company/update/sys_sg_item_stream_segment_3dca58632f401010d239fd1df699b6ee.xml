@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <interleave_order_direction>asc</interleave_order_direction>
+        <name>Person Item Stream Segment</name>
+        <order>0</order>
+        <screen display_value="Persons">f1ca58632f401010d239fd1df699b6ed</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>cmt</sys_created_by>
+        <sys_created_on>2020-04-14 06:05:20</sys_created_on>
+        <sys_id>3dca58632f401010d239fd1df699b6ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Person Item Stream Segment</sys_name>
+        <sys_package display_value="My Company" source="x_50070_my_company">60e810232f401010d239fd1df699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Company">60e810232f401010d239fd1df699b620</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_3dca58632f401010d239fd1df699b6ee</sys_update_name>
+        <sys_updated_by>cmt</sys_updated_by>
+        <sys_updated_on>2020-04-14 06:05:20</sys_updated_on>
+    </sys_sg_item_stream_segment>
+</record_update>

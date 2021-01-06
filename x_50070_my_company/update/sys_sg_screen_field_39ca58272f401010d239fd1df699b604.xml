@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>number</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>40</order>
+        <record_id_field/>
+        <screen display_value="Details">b5ca58632f401010d239fd1df699b6ee</screen>
+        <screen_data_item_table>x_50070_my_company_person</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>cmt</sys_created_by>
+        <sys_created_on>2020-04-14 06:05:20</sys_created_on>
+        <sys_id>39ca58272f401010d239fd1df699b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>number</sys_name>
+        <sys_package display_value="My Company" source="x_50070_my_company">60e810232f401010d239fd1df699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Company">60e810232f401010d239fd1df699b620</sys_scope>
+        <sys_update_name>sys_sg_screen_field_39ca58272f401010d239fd1df699b604</sys_update_name>
+        <sys_updated_by>cmt</sys_updated_by>
+        <sys_updated_on>2020-04-14 06:05:20</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=39ca58272f401010d239fd1df699b604"/>
+</record_update>

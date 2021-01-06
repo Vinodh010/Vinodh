@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_50070_my_company_person">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_50070_my_company_person</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>cmt</sys_created_by>
+            <sys_created_on>2020-04-14 06:03:50</sys_created_on>
+            <sys_id>736a14272f401010d239fd1df699b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="My Company" source="x_50070_my_company">60e810232f401010d239fd1df699b620</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Company">60e810232f401010d239fd1df699b620</sys_scope>
+            <sys_update_name>sys_documentation_x_50070_my_company_person_number_en</sys_update_name>
+            <sys_updated_by>cmt</sys_updated_by>
+            <sys_updated_on>2020-04-14 06:03:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

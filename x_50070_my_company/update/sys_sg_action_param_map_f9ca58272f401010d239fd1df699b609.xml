@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Person)">b1ca58272f401010d239fd1df699b607</button>
+        <item_parameter display_value="Person last_name">31ca58272f401010d239fd1df699b606</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>cmt</sys_created_by>
+        <sys_created_on>2020-04-14 06:05:20</sys_created_on>
+        <sys_id>f9ca58272f401010d239fd1df699b609</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>31ca58272f401010d239fd1df699b606</sys_name>
+        <sys_package display_value="My Company" source="x_50070_my_company">60e810232f401010d239fd1df699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Company">60e810232f401010d239fd1df699b620</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_f9ca58272f401010d239fd1df699b609</sys_update_name>
+        <sys_updated_by>cmt</sys_updated_by>
+        <sys_updated_on>2020-04-14 06:05:20</sys_updated_on>
+        <ui_parameter display_value="Last Name">f1ca58272f401010d239fd1df699b608</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

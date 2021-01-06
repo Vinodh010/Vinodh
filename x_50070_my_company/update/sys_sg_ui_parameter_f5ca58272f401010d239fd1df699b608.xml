@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Person)">b1ca58272f401010d239fd1df699b607</button>
+        <button_parent_table>x_50070_my_company_person</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>number</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Number</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>number</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>cmt</sys_created_by>
+        <sys_created_on>2020-04-14 06:05:20</sys_created_on>
+        <sys_id>f5ca58272f401010d239fd1df699b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Number</sys_name>
+        <sys_package display_value="My Company" source="x_50070_my_company">60e810232f401010d239fd1df699b620</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Company">60e810232f401010d239fd1df699b620</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_f5ca58272f401010d239fd1df699b608</sys_update_name>
+        <sys_updated_by>cmt</sys_updated_by>
+        <sys_updated_on>2020-04-14 06:05:20</sys_updated_on>
+        <table_name>x_50070_my_company_person</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=f5ca58272f401010d239fd1df699b608"/>
+</record_update>
